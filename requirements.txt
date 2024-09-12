@@ -1,0 +1,4 @@
+ultralytics==8.1.27
+cvzone==1.6.1
+mediapipe==0.9.1.0
+numpy==1.26.3
